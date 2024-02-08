@@ -1,0 +1,17 @@
+body {
+    font-family: 'Alumni Sans', sans-serif;
+  }
+  
+  h1 {
+    color: rgb(255, 20, 243);
+    margin-left: 20px;
+    font-size: 300px;
+  }
+  h2 {
+    color: rgb(251, 6, 6);
+    margin-left: 20px;
+    font-size: 70px;
+    font-weight: 100;
+  }
+  li{font-size: 40px;}
+  li{color: rgb(5, 5, 5);}

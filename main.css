@@ -12,7 +12,7 @@ body {
     }
       .content1 {
         position:fixed;
-        top:10px;
+        top: 10%;
         bottom: 45%;
         width: 100%;
       }

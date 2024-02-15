@@ -1,7 +1,7 @@
 body {
     font-family: 'Alumni Sans', sans-serif;
   }
-    #bgvideo {
+  #bgvideo {
       position: fixed;
       right:0;
       bottom:0;
@@ -10,13 +10,13 @@ body {
       height: auto;
       width: auto;
     }
-      .content1 {
+  .content1 {
         position:fixed;
         top: 10%;
         bottom: 45%;
         width: 100%;
       }
-      .content2 {
+  .content2 {
         position:fixed;
         bottom: 30%;
         width: 100%;
@@ -24,6 +24,7 @@ body {
  .header-image{
   top: 10px;
  } 
+
   
   h1 {
     color: rgb(255, 20, 243);

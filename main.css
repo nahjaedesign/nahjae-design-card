@@ -3,20 +3,19 @@ body {
     width: 100%;
 }
 
-
-   @media screen and (max-width: 1200px) {
-    body{
-     margin: 0 auto;
-    }
-   .card{
-     display: grid;
-     width: 60%;
-     /* centers the card */
-     margin-left:auto;
-     margin-right:auto;
-     margin-top:30px;
+@media screen and (max-width: 1200px) {
+  body{
+   margin: 0 auto;
+  }
+ .card{
+   display: grid;
+   width: 60%;
+   /* centers the card */
+   margin-left:auto;
+   margin-right:auto;
+   margin-top:30px;
+ }
    }
-     }
     
   .bgvideo {
     position: fixed;
@@ -26,7 +25,6 @@ body {
     min-height: 100%;
     height: 0;
     width: 0;
-    z-index: 0;
 } 
   .content1 {
         position:fixed;
@@ -64,10 +62,18 @@ body {
 
 .my-logo-container {
   position:fixed;
-  top: 90%;
-  bottom: 20%;
+  top: 80%;
+  bottom: 50%;
   width: 10%;
   right: 4%; 
+}
+
+.linkedin-icon-container {
+  position:fixed;
+  top: 10%;
+  bottom: 50%;
+  width: 8%;
+  right: 5%;
 }
 /* svg{
   fill: rgb(255, 255, 255);

@@ -33,29 +33,16 @@ body {
     position:fixed;
     top: 10%;
     bottom: 70%;
-    width: 50%;
+    width: 8%;
+    right: 5%;
  }
  
  .icon-container{
   position: fixed;
-  right:20%;
-  top:50%;
+  right:0;
+  top:0;
   z-index: 200;
 }
 svg{
-  fill: rgb(0, 0, 0);
+  fill: rgb(255, 255, 255);
 }
-  
-  h1 {
-    color: rgb(255, 20, 243);
-    margin-left: 20px;
-    font-size: 300px;
-  }
-  h2 {
-    color: rgb(251, 6, 6);
-    margin-left: 20px;
-    font-size: 70px;
-    font-weight: 100;
-  }
-  li{font-size: 40px;}
-  li{color: rgb(5, 5, 5);}

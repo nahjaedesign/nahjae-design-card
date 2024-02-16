@@ -1,18 +1,16 @@
 body {
     font-family: 'Alumni Sans', sans-serif;
     width: 100%;
-  }
-  body {
-    background-image: url("tv-static.png");
-    background-repeat: no-repeat;
-    overflow: hidden;
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    min-width: 100%;
-    height: auto;
-    width: auto;
-    z-index: 0;
+}
+    
+    #bgvideo{
+      position: fixed;
+      right: 0;
+      bottom: 0;
+      min-width: 100%;
+      height: auto;
+      width: auto;
+      z-index: 0;
 }
   .content1 {
         position:fixed;

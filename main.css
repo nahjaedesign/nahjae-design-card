@@ -8,6 +8,7 @@ body {
       right: 0;
       bottom: 0;
       min-width: 100%;
+      min-height: 100%;
       height: auto;
       width: auto;
       z-index: 0;
@@ -26,6 +27,13 @@ body {
  .header-image{
   top: 10px;
  } 
+
+ .icon-container{
+    position:fixed;
+    top: 10%;
+    bottom: 45%;
+    width: auto;
+ }
 
   
   h1 {

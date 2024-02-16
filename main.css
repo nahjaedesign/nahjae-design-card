@@ -38,8 +38,8 @@ body {
  
  .icon-container{
   position: fixed;
-  right:0px;
-  top:0px;
+  right:20%;
+  top:50%;
   z-index: 200;
 }
 svg{

@@ -2,6 +2,21 @@ body {
     font-family: 'Alumni Sans', sans-serif;
     width: 100%;
 }
+
+
+   @media screen and (max-width: 1200px) {
+    body{
+     margin: 0 auto;
+    }
+   .card{
+     display: grid;
+     width: 60%;
+     /* centers the card */
+     margin-left:auto;
+     margin-right:auto;
+     margin-top:30px;
+   }
+     }
     
   .bgvideo {
     position: fixed;

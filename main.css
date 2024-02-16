@@ -3,16 +3,15 @@ body {
     width: 100%;
 }
     
-    #bgvideo{
-      position: fixed;
-      right: 0;
-      bottom: 0;
-      min-width: 100%;
-      min-height: 100%;
-      height: auto;
-      width: auto;
-      z-index: 0;
-}
+  .bgvideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: 0;
+} 
+
   .content1 {
         position:fixed;
         top: 10%;
@@ -28,13 +27,22 @@ body {
   top: 10px;
  } 
 
- .icon-container{
+ .email-icon-container{
     position:fixed;
     top: 10%;
-    bottom: 45%;
-    width: auto;
+    bottom: 70%;
+    width: 50%;
  }
-
+ 
+ .icon-container{
+  position: fixed;
+  right:0px;
+  top:0px;
+  z-index: 200;
+}
+svg{
+  fill: rgb(0, 0, 0);
+}
   
   h1 {
     color: rgb(255, 20, 243);
@@ -49,13 +57,3 @@ body {
   }
   li{font-size: 40px;}
   li{color: rgb(5, 5, 5);}
-
-  .icon-container{
-    position: fixed;
-    right:0px;
-    top:0px;
-    z-index: 200;
-  }
-  svg{
-    fill: white;
-  }

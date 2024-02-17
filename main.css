@@ -45,15 +45,15 @@ body {
 
  .email-icon-container{
     position:fixed;
-    top: 10%;
+    top: 50%;
     bottom: 70%;
-    width: 8%;
+    width: 9%;
     right: 5%;
  }
  
  .icon-container{
   position:fixed;
-  top: 30%;
+  top: 10%;
   bottom: 70%;
   width: 8%;
   right: 5%;
@@ -62,15 +62,15 @@ body {
 
 .my-logo-container {
   position:fixed;
-  top: 80%;
-  bottom: 50%;
+  top: 90%;
+  bottom: 30%;
   width: 10%;
   right: 4%; 
 }
 
 .linkedin-icon-container {
   position:fixed;
-  top: 10%;
+  top: 30%;
   bottom: 50%;
   width: 8%;
   right: 5%;

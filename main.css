@@ -100,15 +100,26 @@ body {
    margin-right:auto;
    margin-top:30px;}
   
-   h1{
+   h1 {
     position:fixed;
     font-size: 50px;
     top: 10%;
     bottom: 45%;
-    right: 90%;
+    right: 75%;
+  }
 
-   }
-   .NAHJAE { 
+  h2 {
+    position:fixed;
+    font-size: 30px;
+    top: 30%;
+
+
+
+
+    
+
+  }
+   .nahjae { 
     /* grid-area: 1 / 1 / 2 / 6; */
     z-index: 112;
     position:fixed;
@@ -120,6 +131,12 @@ body {
     font-optical-sizing: auto; 
     font-weight: 900;
     font-style: normal;}
+}
+.design {
+  position:fixed;
+  top:10%;
+  bottom: 50%;
+  right:75%;
 }
 
 

@@ -3,10 +3,13 @@
 } */
 
 body {
+    background-image: url("tv-static-2.mp4");
+    background-repeat: no-repeat;
+    background-size: cover;
     font-family: 'Alumni Sans', sans-serif;
     width: 100%;
     overflow: hidden;
-    background-color: gray;
+    /* background-color: gray; */
 }
 .page-container {
   display: grid;
@@ -93,15 +96,15 @@ body {
    /* centers the card */
    margin-left:auto;
    margin-right:auto;
-   margin-top:30px;
- }
-  .NAHJAE { grid-area: 1 / 1 / 2 / 6; 
+   margin-top:30px;}
+  
+   .NAHJAE { grid-area: 1 / 1 / 2 / 6; 
     z-index: 112;
     position:fixed;
     top: -5%;
     bottom: 45%;
-    width: 40%;
-    right: 50%%;
+    width: 30%;
+    right: 80%;
     font-family: "Changa", sans-serif;
     font-optical-sizing: auto;
     font-weight: 900;

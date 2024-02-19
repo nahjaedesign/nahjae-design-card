@@ -81,9 +81,12 @@ body {
   
 
 @media screen and (max-width: 1200px) {
-  body{
-   margin: 0 auto;
-  }
+  body {
+    font-family: 'Alumni Sans', sans-serif;
+    width: 100%;
+    overflow: visible;
+    background-color: gray;
+}
  .card{
    display: grid;
    width: 60%;

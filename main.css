@@ -95,16 +95,27 @@ body {
    margin-right:auto;
    margin-top:30px;
  }
-.NAHJAE {
-  margin-top:100px;
+  .NAHJAE { grid-area: 1 / 1 / 2 / 6; 
+    z-index: 112;
+    position:fixed;
+    top: -5%;
+    bottom: 45%;
+    width: 60%;
+    right: 38.5%;
+    font-family: "Changa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;}
 }
+
+
   
     /* .content1 { 
     margin-top:100px;
     background-image: url("vertical-name.svg");
     } */
 
-  }
+  
     
   /* .bgvideo {
     position: fixed;

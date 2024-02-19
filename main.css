@@ -27,7 +27,7 @@ body {
   position:fixed;
   top: 10%;
   bottom: 70%;
-  width: 13%;
+  width: 8%;
   right: 5%;
   z-index: 200;}
   .linkedin-icon-container { grid-area: 2 / 9 / 3 / 10; 

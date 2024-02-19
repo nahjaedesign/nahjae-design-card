@@ -106,7 +106,7 @@ body {
     width: 5%;
     right: 90%;
     font-family: "Changa", sans-serif;
-    font-optical-sizing: auto;
+    /* font-optical-sizing: auto; */
     font-weight: 900;
     font-style: normal;}
 }

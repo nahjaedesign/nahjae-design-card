@@ -105,14 +105,13 @@ body {
     font-size: 50px;
     top: 10%;
     bottom: 45%;
-    right: 75%;
-  }
+    right: 75%;}
 
   h2 {
     position:fixed;
     font-size: 30px;
-    top: 30%;
-}
+    top: 30%;}
+
    .nahjae { 
     /* grid-area: 1 / 1 / 2 / 6; */
     z-index: 112;
@@ -125,7 +124,7 @@ body {
     font-optical-sizing: auto; 
     font-weight: 900;
     font-style: normal;}
-}
+
 .design {
   position:fixed;
   top:10%;

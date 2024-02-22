@@ -81,9 +81,9 @@ body {
         bottom: 30%;
         width: 100%;
         right: -2%;} 
- h1{
+ /* h1{
   font-size: 200px;
- }
+ } */
 
 @media screen and (max-width: 1200px) {
   body {

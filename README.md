@@ -1,1 +1,2 @@
-Created in my advanced web typography class. Serves as a digital business card for all of my socials and demonstrates the skills I have learned thus far. Created using a combination of HTML and CSS.
+##Documentation For My Digital Business Card
+My first experience coding my own website. I created my own personal branding while learning about HTML, CSS, and accessibility design. It was very important to me that I was able to accomplish this TV static effect and, through a lot of trial and error, I was able to achieve this bold and graphic site. Before diving into coding I created several mockups in Adobe Illustrator for both desktop and mobile formats. 
